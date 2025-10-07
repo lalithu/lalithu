@@ -1,12 +1,12 @@
 # Hello! 👋
 Thank you for visiting my Github. Feel free to read more about me and explore my projects!
 
-## 👤 About me
+## About me
 - 🎓 Junior @ UNC Charlotte (Grad: Dec 2026)  
 - 💡 Passionate about building things that combine **technology, fitness, and creativity**  
 - 👀 Interests: Open-Source 💻, Engineering ⚙️, Running 🏃, Finance 💵
 
-## 🔧 Tech stack / Skills
+## Tech stack / Skills
 - 💻 Programming: Python, Java, Kotlin, Swift, C++, JavaScript  
 - 🎨 Front-End: Angular, HTML/CSS, SwiftUI 
 - ⚙️ Back-End: Spring, Node.js, Django, SQL
