@@ -2,7 +2,7 @@
 Thank you for visiting my Github. Feel free to read more about me and explore my projects!
 
 ## 👤 About me
-- 🎓 Junior @ UNC Charlotte (Grad: May 2026)  
+- 🎓 Junior @ UNC Charlotte (Grad: Dec 2026)  
 - 💡 Passionate about building things that combine **technology, fitness, and creativity**  
 - 👀 Interests: Open-Source 💻, Engineering ⚙️, Running 🏃, Finance 💵
 
