@@ -23,7 +23,7 @@ Thank you for visiting my Github. Feel free to read more about me and explore my
 ## Contact me
 - 📧 **Email**: [lalithuriti@gmail.com](mailto:lalithuriti@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/lalithu/](https://www.linkedin.com/in/lalithu/)
-- 🏃 **Blog**: [lalithu.github.io/so-you-just-run/](https://lalithu.github.io/so-you-just-run/)  
+- 🏃 **Blog**: [lalithu.github.io/so-you-just-run/](https://lalithu.github.io/)  
 
 
 ## Vistor count
