@@ -6,19 +6,11 @@ Thank you for visiting my Github. Feel free to read more about me and explore my
 - 💡 Passionate about building things that combine **technology, fitness, and creativity**  
 - 👀 Interests: Open-Source 💻, Engineering ⚙️, Running 🏃, Finance 💵
 
-## Tech stack / Skills
-- 💻 Programming: Python, Java, Kotlin, Swift, C++, JavaScript  
-- 🎨 Front-End: Angular, HTML/CSS, SwiftUI 
-- ⚙️ Back-End: Spring, Node.js, Django, SQL
-- 📚 Libraries/Frameworks: OpenCV, Pandas, TensorFlow, NumPy, Scikit-learn, Matplotlib
-- 🛠️ Developer Tools: AWS, Docker, Kubernetes 
-
-## Organizations:
-- **💻 Association of Computing Machinery @ UNC Charlotte**
-
-## Current projects
-- 🏃 **soyoujustrun** — a technical blog exploring running, cycling, fitness tech, and data-driven training methods  
-- ⚙️ **EllipsePy** — Python library for tackling orbital trajectory visualization
+## AI Engineering
+- 🧠 Machine Learning & Computer Vision: TensorFlow, scikit-learn, OpenCV
+- 📊 Data Analysis & Visualization: Python, NumPy, pandas, SQL, Matplotlib
+- ⚙️ Backend Development: Django, Node.js, Spring
+- 🛠️ Cloud & Deployment: AWS, Docker, Kubernetes
 
 ## Contact me
 - 📧 **Email**: [lalithuriti@gmail.com](mailto:lalithuriti@gmail.com)
