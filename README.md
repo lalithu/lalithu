@@ -1,21 +1,22 @@
-# Hello! 👋
-Thank you for visiting my Github. Feel free to read more about me and explore my projects!
+# Hi! 
+Thank you for visiting my Github!
 
 ## About me
-- 🎓 Junior @ UNC Charlotte (Grad: Dec 2026)  
-- 💡 Passionate about building things that combine **technology, fitness, and creativity**  
-- 👀 Interests: Open-Source 💻, Engineering ⚙️, Running 🏃, Finance 💵
+- UNC Charlotte (Grad: Dec 2026)  
+- I like building things that combine **technology, fitness, and creativity**  
+- Open-Source 💻, Engineering ⚙️, Running 🏃
 
-## AI Engineering
-- 🧠 Machine Learning & Computer Vision: TensorFlow, scikit-learn, OpenCV
-- 📊 Data Analysis & Visualization: Python, NumPy, pandas, SQL, Matplotlib
-- ⚙️ Backend Development: Django, Node.js, Spring
-- 🛠️ Cloud & Deployment: AWS, Docker, Kubernetes
+## My Skills
+- **Local & Cloud AI**
+- **Machine Learning & Computer Vision** 
+- **Data Analysis & Visualization**
+- **Full-Stack Development**
+- **Cloud & Deployment**
 
-## Contact me
-- 📧 **Email**: [lalithuriti@gmail.com](mailto:lalithuriti@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/lalithu/](https://www.linkedin.com/in/lalithu/)
-- 🏃 **Blog**: [lalithu.github.io](https://lalithu.github.io/)  
+## Contact
+- **Email**: [lalithuriti@gmail.com](mailto:lalithuriti@gmail.com)
+- **LinkedIn**: [linkedin.com/in/lalithu/](https://www.linkedin.com/in/lalithu/)
+- **Website**: [lalithu.github.io](https://lalithu.github.io/)  
 
 
 ## Vistor count
